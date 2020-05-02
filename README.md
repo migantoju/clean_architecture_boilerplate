@@ -1,11 +1,3 @@
-<p align="center">
-	<img src ="https://cdn.urbvan.com/website1.0/menu/logo.svg" alt="Urbvan Transit"
-	width="400" height="150"
-	/>
-</p>
-
-# Urbvan Clean Architecture (AKA Hexagonal Architecture) Boilerplate
-
 # Overview ℹ️
 This a template to start a new project with all the configuration used
 and plugin used by Urbvan Backend Team.
@@ -51,5 +43,3 @@ $ pre-commit install
 And that's all. You're ready for the next big and great project of Urbvan ❤️.🥳
 
 Good luck and be awesome! 🎉
-
-Created with ❤️ by Urbvan.
